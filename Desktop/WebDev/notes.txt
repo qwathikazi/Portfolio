@@ -1,0 +1,6 @@
+To write text
+path
+    /home/wtc/Desktop/WebDev/imgs/imgTest1-software-dev-pink.jpg
+
+relative path
+   imgs/imgTest1-software-dev-pink.jpg 
